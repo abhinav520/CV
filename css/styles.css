@@ -1,0 +1,28 @@
+body{
+    background-color: #beccc8;
+    padding:10px;
+}
+hr{
+    /* background-color: white; */
+    border-style: none;
+    border-color: #819791;
+    border-top-style:dotted;
+    border-width:3px ;
+    /* border-bottom:0px; */ 
+    width:10%;
+}
+h1{
+    color:rgb(9, 61, 43)
+}
+h3{
+    color:rgb(9, 61, 43)
+}
+.tab table,.tab table tr{
+    border:2px solid rgb(1, 26, 1);
+    border-collapse: collapse;
+}
+
+.tab td{
+    padding:10px;
+    border-spacing: 5px;
+}
